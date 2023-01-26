@@ -1,0 +1,19 @@
+html,
+body {
+  font-family: sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.app {
+  position: absolute;
+  inset: 0;
+}
+
+.viewport {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
